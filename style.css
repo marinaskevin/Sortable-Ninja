@@ -1,23 +1,23 @@
 *
 {
-	margin: 0px;
-	padding: 0px;	
+    margin: 0px;
+    padding: 0px;
 }
 
 body
 {
-	background-color: aliceblue;
-	vertical-align: middle;
-	width: 100%;
-	height: 100%;
+    background-color: aliceblue;
+    vertical-align: middle;
+    width: 100%;
+    height: 100%;
 }
 
 div
 {
-	background: linear-gradient(white,black);
-	width: 192px;
-	height: 283px;
-	margin: 0px auto;
+    background: linear-gradient(white,black);
+    width: 192px;
+    height: 283px;
+    margin: 0px auto;
 
     position: absolute;
     top: 50%;
@@ -29,8 +29,8 @@ div
 
 img
 {
-	display: block;
-	width: 181px;
-	height: auto;
-	margin: 5px;
+    display: block;
+    width: 181px;
+    height: auto;
+    margin: 5px;
 }
